@@ -32,7 +32,7 @@ public class Aula05Exemplo02 {
             System.out.println(i);
 	}
 		
-	//Desafio: como exibir todos os componentes do vetor de uma sÃ³ vez?
+	//Desafio: como exibir todos os componentes do vetor de uma soh vez?
 	//Dica: salvar em uma String e exibir a String com o JOptionPane
     }
     

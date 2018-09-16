@@ -9,9 +9,9 @@ import javax.swing.JOptionPane;
  *
  * @author Pedro
  */
-public class Aula05Exemplo01{
+public class Aula05Exemplo01 {
 	
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		
 		//exibe a caixa de diÃ¡logo de digitaÃ§Ã£o
 		String n1 = JOptionPane.showInputDialog("Primeiro numero: ");
@@ -30,4 +30,5 @@ public class Aula05Exemplo01{
 		//exibe a caixa de dialogo com o resultado
 		JOptionPane.showMessageDialog(null, "Resultado: " + soma, "Exemplo 01", JOptionPane.WARNING_MESSAGE);
 	}
+        
 }

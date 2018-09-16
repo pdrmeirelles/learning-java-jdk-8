@@ -36,7 +36,6 @@ public class Aula03Exemplo01 {
         
         System.out.println("Matrícula: " + aluno1.getMatricula());
         System.out.println("Nome: " + aluno1.getNome());
-        
     }
     
 }
