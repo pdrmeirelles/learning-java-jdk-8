@@ -20,7 +20,8 @@ public class Aula03Exemplo01 {
         // TODO code application logic here
         System.out.println("Aula 03 Exemplo 01");
         
-        //criar o objeto a1uno1
+        //criar o objeto a1uno1:
+        
         //Aluno aluno1 = new Aluno();
         //System.out.println("Matrícula: " + aluno1.getMatricula());
         //System.out.println("Nome: " + aluno1.getNome());
